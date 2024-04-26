@@ -66,5 +66,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# Market-of-Tea-
->>>>>>> 1a0481587d9962b70198fcaa3e847741d9999549
+
